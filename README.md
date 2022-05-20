@@ -5,7 +5,7 @@ For Android
 ![demo](demo.gif)
 
 
-This project represents an Android TV app.
+This project represents an Android TV app.(Emulator used : Android TV (1080P) API Tiramisu)
 
 # Steps to start the project
 
