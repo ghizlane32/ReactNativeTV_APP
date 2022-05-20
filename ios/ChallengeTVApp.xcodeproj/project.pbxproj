@@ -230,7 +230,7 @@
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
-				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and index */,
 				0D7507D506130F6246FD97BE /* [CP] Copy Pods Resources */,
 				2D0FE9B0618B7653931FB828 /* [CP] Embed Pods Frameworks */,
 			);
@@ -366,14 +366,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
+		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and index */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "Bundle React Native code and images";
+			name = "Bundle React Native code and index";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;

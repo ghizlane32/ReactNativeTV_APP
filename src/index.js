@@ -1,21 +1,15 @@
 import React from 'react';
-import { View, StyleSheet, Text } from "react-native";
+import Home from "./screens/Home";
+import { Platform } from "react-native";
 
 
 
 const App = () => {
+  const running_on_android_tv = Platform.isTV;
+  console.log(running_on_android_tv)
   return (
-        <View style={styles.app}>
-          <Text>Demo</Text>
-        </View>
+       <Home/>
   );
 };
 
 export default App;
-
-const styles = StyleSheet.create({
-  app: {
-    flex: 1,
-    flexDirection: 'row',
-  },
-});
